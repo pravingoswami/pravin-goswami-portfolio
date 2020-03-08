@@ -19,7 +19,7 @@ function App() {
       </div>
     </div>
     <div className="page">
-      <Navbar />
+      {/* <Navbar /> */}
 
     <div id="colorlib-page">
 
