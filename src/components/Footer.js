@@ -16,7 +16,7 @@ function Footer(props){
               </div>
               <div className="ftco-footer-widget">
                 <h2 className="mb-3">Contact Me</h2>
-                <p className="h3 email"><a href="#">goswami4737@email.com</a></p>
+                <p className="h3 email"><a href="#">goswami4737@gmail.com</a></p>
               </div>
             </div>
           </div>
