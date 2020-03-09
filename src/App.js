@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import { BrowserRouter, Route } from 'react-router-dom';
 import Languages from './components/Languages';
 import Skills from './components/Skills';
+import Experience from './components/Experience';
 
 
 function App() {
@@ -33,6 +34,8 @@ function App() {
 
       <Service />
 
+      <Experience />
+      <br></br>
       <Languages />
 
       <Skills />  

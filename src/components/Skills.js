@@ -11,13 +11,16 @@ class Skills extends React.Component{
     render(){
         return(
            <div>
+                                    <br></br>
+          <br></br>
+          <br></br>
                 <section className="ftco-section about-section">
             <div className="container">
               <div className="row d-flex" data-scrollax-parent="true">
                 <div className="col-md-2"></div>
                 <div className="col-md-6 wrap ftco-animate">
                   <div className="about-desc">
-                    <h1 className="bold-text">SKILLS</h1>
+                    <h1 className="bold-text"  >SKILLS</h1>
                     <div className="p-5">
                     </div>
                   </div>
