@@ -7,6 +7,8 @@ import Service from './components/Service';
 import Work from './components/Work';
 import Footer from './components/Footer';
 import { BrowserRouter, Route } from 'react-router-dom';
+import Languages from './components/Languages';
+import Skills from './components/Skills';
 
 
 function App() {
@@ -30,6 +32,10 @@ function App() {
       <AboutSection />
 
       <Service />
+
+      <Languages />
+
+      <Skills />  
       
       <Work />
       
