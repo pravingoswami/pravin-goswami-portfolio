@@ -22,13 +22,16 @@ class Languages extends React.Component{
                   <div className="about-desc">
                     <h1 className="bold-text"  style = {{marginTop : "200px"}} >LANGUAGES</h1>
                     <div className="p-5">
+							<h2 class="mb-5"  style = {{marginTop : "200px"}} >LANGUAGES</h2>
+
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div className = "container" style = {{marginTop : "200px"}} >
+            <div className = "container"  >
            <div className = "row" >
+		  
 				<div class="exp mt-5 ftco-animate col-md-3">
 							<h2 class="mb-4">FRONTEND</h2>
 							{

@@ -22,6 +22,8 @@ class Skills extends React.Component{
                   <div className="about-desc">
                     <h1 className="bold-text"  >SKILLS</h1>
                     <div className="p-5">
+							<h2 class="mb-5"   >SKILLS</h2>
+
                     </div>
                   </div>
                 </div>
